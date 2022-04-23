@@ -1,6 +1,59 @@
 {
   "productList": [
-
+    {
+      "productName": "Iphone 13",
+      "category": "Eletronic",
+      "state": "Refurbished",
+      "price": 5999,
+      "comment": "Very new!",
+      "date": "2022-04-22T03:00:00.000Z",
+      "id": 1
+    },
+    {
+      "productName": "Samsung Galaxy S9",
+      "category": "Eletronic",
+      "state": "Second Hand",
+      "price": 1900,
+      "comment": "",
+      "date": "2022-04-23T03:00:00.000Z",
+      "id": 2
+    },
+    {
+      "productName": "Motorola AJ4",
+      "category": "Eletronic",
+      "state": "Second Hand",
+      "price": 999,
+      "comment": "6 months of usage",
+      "date": "2022-04-23T03:00:00.000Z",
+      "id": 3
+    },
+    {
+      "productName": "Motorola AJ7",
+      "category": "Eletronic",
+      "state": "Brand New",
+      "price": 1499,
+      "comment": "",
+      "date": "2022-04-23T03:00:00.000Z",
+      "id": 4
+    },
+    {
+      "productName": "Iphone 12",
+      "category": "Eletronic",
+      "state": "Brand New",
+      "price": 3999,
+      "comment": "brand new",
+      "date": "2022-02-08T03:00:00.000Z",
+      "id": 5
+    },
+    {
+      "productName": "Iphone 11",
+      "category": "Eletronic",
+      "state": "Brand New",
+      "price": 2999,
+      "comment": "",
+      "date": "2022-04-23T03:00:00.000Z",
+      "id": 6
+    }
   ],
   "comments": [
     {
